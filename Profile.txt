@@ -5,3 +5,10 @@ Gender: Male
 Age: 19
 Birthday: November 17, 2005
 Contacts: 09941027812
+
+Birth Place: P-6, Buhang Magallanes, Agusan del Norte
+Religion: Roman Catholic
+Father's Name: Geovani P. Gemao
+Occupation: Minning Engineer
+Mother's Name: Maryjane A. Dominise
+Occupation: House Wife
