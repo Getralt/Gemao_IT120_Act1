@@ -4,3 +4,7 @@ High School: Magallanes National High School
 Year Graduated: 2019-2020
 Senoir High School: Magallanes National High School
 Year Graduated: 2022-2023
+
+College: Caraga State University Cabadbaran Campus
+Program: Bachelor of Science in Information Technology
+Year Level: 3rd Year
